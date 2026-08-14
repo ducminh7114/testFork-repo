@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Fork\\testFork-repo\\khai_bao_bien\\2.7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EAEE1353-C697-442B-8B5D-009599BB09F9}|2.7\\2.7.vcxproj|D:\\Fork\\testFork-repo\\khai_bao_bien\\2.7\\2.7\\2.7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EAEE1353-C697-442B-8B5D-009599BB09F9}|2.7\\2.7.vcxproj|solutionrelative:2.7\\2.7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "2.7.cpp",
+              "DocumentMoniker": "D:\\Fork\\testFork-repo\\khai_bao_bien\\2.7\\2.7\\2.7.cpp",
+              "RelativeDocumentMoniker": "2.7\\2.7.cpp",
+              "ToolTip": "D:\\Fork\\testFork-repo\\khai_bao_bien\\2.7\\2.7\\2.7.cpp",
+              "RelativeToolTip": "2.7\\2.7.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-14T15:03:41.233Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

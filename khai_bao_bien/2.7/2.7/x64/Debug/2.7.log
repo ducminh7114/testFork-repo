@@ -1,0 +1,11 @@
+﻿  2.7.cpp
+D:\Fork\testFork-repo\khai_bao_bien\2.7\2.7\2.7.cpp(9,10): warning C4473: 'scanf_s' : not enough arguments passed for format string
+      D:\Fork\testFork-repo\khai_bao_bien\2.7\2.7\2.7.cpp(9,10):
+      placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+      D:\Fork\testFork-repo\khai_bao_bien\2.7\2.7\2.7.cpp(9,10):
+      the missing variadic argument 2 is required by format string '%s'
+      D:\Fork\testFork-repo\khai_bao_bien\2.7\2.7\2.7.cpp(9,10):
+      this argument is used as a buffer size
+  
+D:\Fork\testFork-repo\khai_bao_bien\2.7\2.7\2.7.cpp(15,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  2.7.vcxproj -> D:\Fork\testFork-repo\khai_bao_bien\2.7\x64\Debug\2.7.exe
