@@ -1,0 +1,4 @@
+﻿  2.3.cpp
+C:\Users\pc\testFork-repo\ham_toan_hoc\2.3\2.3\2.3.cpp(8,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\pc\testFork-repo\ham_toan_hoc\2.3\2.3\2.3.cpp(9,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  2.3.vcxproj -> C:\Users\pc\testFork-repo\ham_toan_hoc\2.3\x64\Debug\2.3.exe
