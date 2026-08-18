@@ -1,0 +1,8 @@
+﻿  2.1.cpp
+C:\Users\pc\testFork-repo\dieu_kien\2.1\2.1\2.1.cpp(63,24): warning C4477: 'scanf_s' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'char *'
+C:\Users\pc\testFork-repo\dieu_kien\2.1\2.1\2.1.cpp(63,24): message : consider using '%hhd' in the format string
+C:\Users\pc\testFork-repo\dieu_kien\2.1\2.1\2.1.cpp(81,25): warning C4477: 'scanf_s' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'char *'
+C:\Users\pc\testFork-repo\dieu_kien\2.1\2.1\2.1.cpp(81,25): message : consider using '%hhd' in the format string
+C:\Users\pc\testFork-repo\dieu_kien\2.1\2.1\2.1.cpp(99,26): warning C4477: 'scanf_s' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'char *'
+C:\Users\pc\testFork-repo\dieu_kien\2.1\2.1\2.1.cpp(99,26): message : consider using '%hhd' in the format string
+  2.1.vcxproj -> C:\Users\pc\testFork-repo\dieu_kien\2.1\x64\Debug\2.1.exe
