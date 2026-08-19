@@ -1,0 +1,6 @@
+﻿  2.7.cpp
+D:\Fork\testFork-repo\dieu_kien\2.7\2.7\2.7.cpp(13,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Fork\testFork-repo\dieu_kien\2.7\2.7\2.7.cpp(17,16): warning C4804: '>': unsafe use of type 'bool' in operation
+D:\Fork\testFork-repo\dieu_kien\2.7\2.7\2.7.cpp(20,16): warning C4804: '>': unsafe use of type 'bool' in operation
+D:\Fork\testFork-repo\dieu_kien\2.7\2.7\2.7.cpp(23,15): warning C4804: '<': unsafe use of type 'bool' in operation
+  2.7.vcxproj -> D:\Fork\testFork-repo\dieu_kien\2.7\x64\Debug\2.7.exe

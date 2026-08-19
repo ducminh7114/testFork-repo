@@ -1,0 +1,26 @@
+﻿#include <iostream>
+#include <cmath>
+#include <iomanip>
+
+using namespace std;
+
+int main() {
+    double score;
+    if (!(cin >> score)) return 0;
+
+    int ipart = static_cast<int>(score);
+    double frac = score - ipart;
+    double result;
+
+    if (frac < 0.25) {
+        result = ipart; // drop fractional part
+    } else if (frac <= 0.5) {
+        result = ipart + 0.5; // round to .5
+    } else {
+        result = ipart + 1; // round up
+    }
+
+    cout << fixed << setprecision(1) << result << endl;
+    return 0;
+}
+

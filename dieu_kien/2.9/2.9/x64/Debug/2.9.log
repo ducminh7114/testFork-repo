@@ -1,0 +1,6 @@
+﻿  2.9.cpp
+D:\Fork\testFork-repo\dieu_kien\2.9\2.9\2.9.cpp(12,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Fork\testFork-repo\dieu_kien\2.9\2.9\2.9.cpp(15,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Fork\testFork-repo\dieu_kien\2.9\2.9\2.9.cpp(21,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Fork\testFork-repo\dieu_kien\2.9\2.9\2.9.cpp(23,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  2.9.vcxproj -> D:\Fork\testFork-repo\dieu_kien\2.9\x64\Debug\2.9.exe

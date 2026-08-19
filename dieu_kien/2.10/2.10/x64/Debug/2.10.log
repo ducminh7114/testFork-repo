@@ -1,0 +1,3 @@
+﻿  2.10.cpp
+D:\Fork\testFork-repo\dieu_kien\2.10\2.10\2.10.cpp(37,14): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  2.10.vcxproj -> D:\Fork\testFork-repo\dieu_kien\2.10\x64\Debug\2.10.exe
