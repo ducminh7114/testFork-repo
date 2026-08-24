@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Fork\\testFork-repo\\vong_lap\\2.15\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{340C3D63-9A57-4AE4-B272-D203063527A2}|2.15\\2.15.vcxproj|D:\\Fork\\testFork-repo\\vong_lap\\2.15\\2.15\\2.15.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{340C3D63-9A57-4AE4-B272-D203063527A2}|2.15\\2.15.vcxproj|solutionrelative:2.15\\2.15.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "2.15.cpp",
+              "DocumentMoniker": "D:\\Fork\\testFork-repo\\vong_lap\\2.15\\2.15\\2.15.cpp",
+              "RelativeDocumentMoniker": "2.15\\2.15.cpp",
+              "ToolTip": "D:\\Fork\\testFork-repo\\vong_lap\\2.15\\2.15\\2.15.cpp",
+              "RelativeToolTip": "2.15\\2.15.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAswCsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-24T13:26:12.688Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
