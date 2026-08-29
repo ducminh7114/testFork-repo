@@ -1,0 +1,4 @@
+﻿  2.7.cpp
+C:\Users\pc\testFork-repo\mang_va_day\2.7\2.7\2.7.cpp(39,9): warning C4804: '<=': unsafe use of type 'bool' in operation
+C:\Users\pc\testFork-repo\mang_va_day\2.7\2.7\2.7.cpp(55,9): warning C4804: '<=': unsafe use of type 'bool' in operation
+  2.7.vcxproj -> C:\Users\pc\testFork-repo\mang_va_day\2.7\x64\Debug\2.7.exe
