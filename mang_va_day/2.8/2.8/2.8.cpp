@@ -13,10 +13,13 @@ void NhapMang(int* soLuong, int arr[]) {
 		while (getchar() != '\n');
 	}
 
-	for (int i = 0; i < *soLuong; i++) {
-		printf("Nhap phan tu o vi tri %d: ", i + 1);
-		scanf_s("%d", &arr[i]);
-	}
+	printf("Nhap chuoi ki tu: \n");
+	scanf_s("%s", &arr);
+
+	//for (int i = 0; i < *soLuong; i++) {
+	//	printf("Nhap phan tu o vi tri %d: ", i + 1);
+	//	scanf_s("%d", &arr[i]);
+	//}
 }
 
 void XuatMang(int soLuong, int arr[]) {
