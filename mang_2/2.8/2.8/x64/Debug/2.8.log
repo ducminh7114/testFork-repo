@@ -1,0 +1,22 @@
+﻿  2.8.cpp
+C:\Users\pc\testFork-repo\mang_2\2.8\2.8\2.8.cpp(5,25): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\pc\testFork-repo\mang_2\2.8\2.8\2.8.cpp(9,21): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\pc\testFork-repo\mang_2\2.8\2.8\2.8.cpp(13,12): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\pc\testFork-repo\mang_2\2.8\2.8\2.8.cpp(17,14): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\pc\testFork-repo\mang_2\2.8\2.8\2.8.cpp(21,12): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\pc\testFork-repo\mang_2\2.8\2.8\2.8.cpp(25,19): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\pc\testFork-repo\mang_2\2.8\2.8\2.8.cpp(61,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pc\testFork-repo\mang_2\2.8\2.8\2.8.cpp(61,20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\pc\testFork-repo\mang_2\2.8\2.8\2.8.cpp(62,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pc\testFork-repo\mang_2\2.8\2.8\2.8.cpp(62,23): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\pc\testFork-repo\mang_2\2.8\2.8\2.8.cpp(63,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pc\testFork-repo\mang_2\2.8\2.8\2.8.cpp(63,17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pc\testFork-repo\mang_2\2.8\2.8\2.8.cpp(75,21): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\pc\testFork-repo\mang_2\2.8\2.8\2.8.cpp(76,24): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\pc\testFork-repo\mang_2\2.8\2.8\2.8.cpp(77,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pc\testFork-repo\mang_2\2.8\2.8\2.8.cpp(77,17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pc\testFork-repo\mang_2\2.8\2.8\2.8.cpp(97,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\pc\testFork-repo\mang_2\2.8\2.8\2.8.cpp(98,18): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\pc\testFork-repo\mang_2\2.8\2.8\2.8.cpp(99,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pc\testFork-repo\mang_2\2.8\2.8\2.8.cpp(99,17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  2.8.vcxproj -> C:\Users\pc\testFork-repo\mang_2\2.8\x64\Debug\2.8.exe

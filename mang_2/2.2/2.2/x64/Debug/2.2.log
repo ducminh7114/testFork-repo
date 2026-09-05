@@ -1,0 +1,4 @@
+﻿  2.2.cpp
+C:\Users\pc\testFork-repo\mang_2\2.2\2.2\2.2.cpp(5,12): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\pc\testFork-repo\mang_2\2.2\2.2\2.2.cpp(8,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  2.2.vcxproj -> C:\Users\pc\testFork-repo\mang_2\2.2\x64\Debug\2.2.exe
