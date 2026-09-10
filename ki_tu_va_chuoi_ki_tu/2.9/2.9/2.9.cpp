@@ -1,20 +1,45 @@
-// 2.9.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+#include <stdio.h>
+#include <string.h>
+#include <ctype.h>
 
-#include <iostream>
+int main() {
+    char s[100];
+    char name[100];
+    char hovaTenDem[100];
+    printf("Nhap ten nguoi dung: \n");
+    gets_s(s, 100);
+    char* dauCach = strrchr(s, ' ');
+    if (dauCach != NULL) {
+        strcpy_s(name, dauCach + 1);
 
-int main()
-{
-    std::cout << "Hello World!\n";
+        strncpy_s(hovaTenDem, s, dauCach - s);
+        hovaTenDem[dauCach - s] = '\0';
+        int j = 0;
+        for (int i = 0;  hovaTenDem[i] != '\0'; i++) {
+            if (hovaTenDem[i] != ' ') {
+                hovaTenDem[j++] = hovaTenDem[i];
+            }
+        }
+        hovaTenDem[j] = '\0';
+    }
+
+    printf("Truong hop 1: \n");
+    printf("Input: %s\n", s);
+    printf("Output: %s.%s@greenacademy.edu.vn\n", name, hovaTenDem);
+    
+    char hovaTenDemVietTat[100];
+    int count = 0;
+    hovaTenDemVietTat[count] = hovaTenDem[0];
+    count++;
+    for (int i = 0; i <= s[i] != '\0'; i++) {
+        if (s[i] == ' ') {
+            hovaTenDemVietTat[count] = s[i + 1];
+            count++;
+        }
+    }
+    hovaTenDemVietTat[count++] = '\0';
+    printf("Truong hop 2: \n");
+    printf("Input: %s\n", s);
+    printf("Output: %c.%s@greenacademy.edu.vn\n", name[0], hovaTenDemVietTat);
+    return 0;
 }
-
-// Run program: Ctrl + F5 or Debug > Start Without Debugging menu
-// Debug program: F5 or Debug > Start Debugging menu
-
-// Tips for Getting Started: 
-//   1. Use the Solution Explorer window to add/manage files
-//   2. Use the Team Explorer window to connect to source control
-//   3. Use the Output window to see build output and other messages
-//   4. Use the Error List window to view errors
-//   5. Go to Project > Add New Item to create new code files, or Project > Add Existing Item to add existing code files to the project
-//   6. In the future, to open this project again, go to File > Open > Project and select the .sln file
