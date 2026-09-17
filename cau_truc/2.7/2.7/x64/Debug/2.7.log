@@ -1,0 +1,16 @@
+﻿  2.7.cpp
+C:\Users\pc\source\repos\2.7\2.7\2.7.cpp(141,12): error C2146: syntax error: missing ';' before identifier 'tong'
+C:\Users\pc\source\repos\2.7\2.7\2.7.cpp(141,12): error C2065: 'tong': undeclared identifier
+C:\Users\pc\source\repos\2.7\2.7\2.7.cpp(142,12): error C2146: syntax error: missing ';' before identifier 'hieu'
+C:\Users\pc\source\repos\2.7\2.7\2.7.cpp(142,12): error C2065: 'hieu': undeclared identifier
+C:\Users\pc\source\repos\2.7\2.7\2.7.cpp(145,9): error C2065: 'tong': undeclared identifier
+C:\Users\pc\source\repos\2.7\2.7\2.7.cpp(145,20): error C2065: 'tong': undeclared identifier
+C:\Users\pc\source\repos\2.7\2.7\2.7.cpp(144,12): warning C4473: 'printf' : not enough arguments passed for format string
+C:\Users\pc\source\repos\2.7\2.7\2.7.cpp(144,12): message : placeholders and their parameters expect 2 variadic arguments, but 0 were provided
+C:\Users\pc\source\repos\2.7\2.7\2.7.cpp(144,12): message : the missing variadic argument 1 is required by format string '%d'
+C:\Users\pc\source\repos\2.7\2.7\2.7.cpp(148,9): error C2065: 'hieu': undeclared identifier
+C:\Users\pc\source\repos\2.7\2.7\2.7.cpp(148,20): error C2065: 'hieu': undeclared identifier
+C:\Users\pc\source\repos\2.7\2.7\2.7.cpp(147,12): warning C4473: 'printf' : not enough arguments passed for format string
+C:\Users\pc\source\repos\2.7\2.7\2.7.cpp(147,12): message : placeholders and their parameters expect 2 variadic arguments, but 0 were provided
+C:\Users\pc\source\repos\2.7\2.7\2.7.cpp(147,12): message : the missing variadic argument 1 is required by format string '%d'
+C:\Users\pc\source\repos\2.7\2.7\2.7.cpp(152,28): error C2065: 'tong': undeclared identifier
